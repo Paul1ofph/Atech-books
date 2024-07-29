@@ -1,0 +1,199 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Introduction To Computer Science",
+      "author": "Dr Onomade CD",
+      "level": "100 Level",
+      "description": "Computer Science TextBook for 100Level",
+      "location": "Adeleke University",
+      "price": "$5 - $10",
+      "seller": {
+        "name": "Paul Adibe",
+        "description": "A 500Level Student of Adeleke University",
+        "contactEmail": "Paulofph@gmail.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Basic Physics",
+      "author": "Dr Onomade CD",
+      "level": "100 Level",
+      "description": "Physics TextBook for 100Level",
+      "location": "Adeleke University",
+      "price": "$5 - $10",
+      "seller": {
+        "name": "Paul Adibe",
+        "description": "A 500Level Student of Adeleke University",
+        "contactEmail": "Paulofph@gmail.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Basic Chemistry",
+      "author": "Dr Onomade CD",
+      "level": "100 Level",
+      "description": "Chemistry TextBook for 100Level",
+      "location": "Adeleke University",
+      "price": "$5 - $10",
+      "seller": {
+        "name": "Paul Adibe",
+        "description": "A 500Level Student of Adeleke University",
+        "contactEmail": "Paulofph@gmail.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Basic Statistics",
+      "author": "Dr Onomade CD",
+      "level": "100 Level",
+      "description": "Statistics TextBook for 100Level",
+      "location": "Adeleke University",
+      "price": "$5 - $10",
+      "seller": {
+        "name": "Paul Adibe",
+        "description": "A 500Level Student of Adeleke University",
+        "contactEmail": "Paulofph@gmail.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Numerical Methods and Analysis",
+      "author": "Dr Onomade CD",
+      "level": "100 Level",
+      "description": "NMA TextBook for 100Level",
+      "location": "Adeleke University",
+      "price": "$5 - $10",
+      "seller": {
+        "name": "Paul Adibe",
+        "description": "A 500Level Student of Adeleke University",
+        "contactEmail": "Paulofph@gmail.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Anatomy 101",
+      "author": "Dr Onomade CD",
+      "level": "100 Level",
+      "description": "Anatomy TextBook for 100Level",
+      "location": "Adeleke University",
+      "price": "$5 - $10",
+      "seller": {
+        "name": "Paul Adibe",
+        "description": "A 500Level Student of Adeleke University",
+        "contactEmail": "Paulofph@gmail.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Physiology 101",
+      "author": "Dr Onomade CD",
+      "level": "100 Level",
+      "description": "Physiology TextBook for 100Level",
+      "location": "Adeleke University",
+      "price": "$5 - $10",
+      "seller": {
+        "name": "Paul Adibe",
+        "description": "A 500Level Student of Adeleke University",
+        "contactEmail": "Paulofph@gmail.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Intro to Engineering",
+      "author": "Dr Onomade CD",
+      "level": "100 Level",
+      "description": "Engineering TextBook for 100Level",
+      "location": "Adeleke University",
+      "price": "$5 - $10",
+      "seller": {
+        "name": "Paul Adibe",
+        "description": "A 500Level Student of Adeleke University",
+        "contactEmail": "Paulofph@gmail.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Electrical Engineering",
+      "author": "Dr Onomade CD",
+      "level": "100 Level",
+      "description": "Electrical Engineering TextBook for 100Level",
+      "location": "Adeleke University",
+      "price": "$5 - $10",
+      "seller": {
+        "name": "Paul Adibe",
+        "description": "A 500Level Student of Adeleke University",
+        "contactEmail": "Paulofph@gmail.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "10",
+      "title": "Politics Today",
+      "author": "Dr Onomade CD",
+      "level": "100 Level",
+      "description": "Political Science TextBook for 100Level",
+      "location": "Adeleke University",
+      "price": "$5 - $10",
+      "seller": {
+        "name": "Paul Adibe",
+        "description": "A 500Level Student of Adeleke University",
+        "contactEmail": "Paulofph@gmail.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "11",
+      "title": "Algebra",
+      "author": "Dr Onomade CD",
+      "level": "100 Level",
+      "description": "Algebra TextBook for 100Level",
+      "location": "Adeleke University",
+      "price": "$5 - $10",
+      "seller": {
+        "name": "Paul Adibe",
+        "description": "A 500Level Student of Adeleke University",
+        "contactEmail": "Paulofph@gmail.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "3a7d",
+      "title": "Lawyers Association",
+      "author": "Dr Paul Adibe",
+      "level": "500 Level",
+      "location": "Nigeria",
+      "description": "Law TextBook for final year students",
+      "price": "$15 - $17",
+      "seller": {
+        "name": "David Njoku",
+        "description": "500 Level Law Student of Adeleke University",
+        "contactEmail": "DavidNjoku@gmail.com",
+        "contactPhone": "1234567890"
+      }
+    },
+    {
+      "id": "df7d",
+      "title": "The Law 101",
+      "author": "The Law",
+      "level": "100 Level",
+      "location": "asdasdad",
+      "description": "The Law",
+      "price": "$9 - $10",
+      "seller": {
+        "name": "asdfgh",
+        "description": "The Law",
+        "contactEmail": "asdasdas@gmail.com",
+        "contactPhone": "12345"
+      }
+    }
+  ]
+}
